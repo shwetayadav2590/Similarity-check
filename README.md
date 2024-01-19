@@ -1,2 +1,2 @@
-# Team5---Generative-AI
-this is my first project
+Finding Similar Questions in MySQL Database using Sentence Transformer
+
